@@ -19,6 +19,7 @@ For the encoding and decoding I had to use a memoized "dynamic" array which we h
 Other data structures used are ArrayLists.
 
 Written in VS Code
+
 Compiler: javac 19.0.1
 
 ### How to Use
