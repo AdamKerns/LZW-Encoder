@@ -23,7 +23,22 @@ Compiler: javac 19.0.1
 
 ### How to Use
 
-- After Extracting the Folder (as you've done already), go to your terminal and run
+Choose one of the following methods to get the project locally:
+
+#### Option 1. Clone Repository
+- Clone
 ```bash
-java LZW.java *your-input-text.txt* *length of bits to use*
+git clone https://github.com/AdamKerns/LZW-Encoder.git
+```
+
+#### Option 2. Download as ZIP
+
+1. Click the Code button
+2. Select Download ZIP
+3. Extract the files to your desired location
+
+
+- After Extracting the Folder, create a text file name ```input.txt``` go to your terminal and run
+```bash
+java LZW.java input.txt 12
 ``` 
