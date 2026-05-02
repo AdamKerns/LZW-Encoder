@@ -38,7 +38,7 @@ git clone https://github.com/AdamKerns/LZW-Encoder.git
 3. Extract the files to your desired location
 
 
-- After Extracting the Folder, create a text file name ```input.txt``` go to your terminal and run
+- After Extracting the Folder, create a text file name ```input.txt``` with some text in it, go to your terminal, and run
 ```bash
 java LZW.java input.txt 12
 ``` 
